@@ -58,4 +58,4 @@ Dans le fichier `Forcepoint-1685540516652.json` contient la configuration du das
 
 Voici à quoi ressemble le dashboard :
 
-![ForcepointDashboard](https://edu-git.ac-versailles.fr/dharal1/forcepoint/-/blob/main/exporter/png/dashboard_forcepoint.png)
+![ForcepointDashboard](https://github.com/Dyl-LAN741/forcepoint/blob/main/exporter/png/dashboard_forcepoint.png)
